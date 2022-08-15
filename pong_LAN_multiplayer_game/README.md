@@ -14,7 +14,7 @@ Pong multiplayer is a Table-Tennis game that supports LAN multiplayer (and singl
 Before running anything, clone the repository:
 ```bash
 git clone https://github.com/longtranv/ping-pong-lan-multiplayer-game
-cd pong-multiplayer
+cd ping-pong-lan-multiplayer-game
 ```
 
 ### Running server
